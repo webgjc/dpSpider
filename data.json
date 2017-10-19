@@ -1,0 +1,62 @@
+[
+  {
+    "image_name": "00000001.jpg",
+    "image_url": "http://images.dpchallenge.com/images_challenge/2000-2999/2530/1200/Copyrighted_Image_Reuse_Prohibited_1205226.jpg",
+    "information": {
+      "challenge": "Cubism (Extended Editing)",
+      "date": "Sep 7, 2017",
+      "date_uploaded": "Sep 7, 2017",
+      "lens": "Canon EF-S 18-135mm IS STM",
+      "camera": "Canon EOS-7D Mark II",
+      "collection": "Challenges",
+      "galleries": [
+        "Abstract"
+      ]
+    },
+    "statistics": {
+      "avg_all_users": "5.5227",
+      "views_during_voting": "101",
+      "views_since_voting": "229",
+      "favorites": "0",
+      "avg_non_participants": "5.7778",
+      "votes": "44",
+      "place": "20 out of 38",
+      "comments_num": "2",
+      "avg_participants": "5.1176",
+      "avg_commenters": "5.5000"
+    },
+    "comments": [
+      "I think I get the picture 7",
+      "I'm really not sure about this one. It does resemble a Picasso."
+    ]
+  },
+  {
+    "image_name": "00000002.jpg",
+    "image_url": "http://images.dpchallenge.com/images_portfolio/25000-29999/29748/1200/Copyrighted_Image_Reuse_Prohibited_1205121.jpg",
+    "information": {
+      "challenge": "Portfolio (Nikon D4s)",
+      "date": "",
+      "date_uploaded": "Sep 4, 2017",
+      "lens": "Action",
+      "camera": "Sports",
+      "collection": "Nikon AF-S Nikkor 400mm f/2.8G ED VR",
+      "galleries": [
+        "Sports",
+        "Action"
+      ]
+    },
+    "statistics": {
+      "avg_all_users": "",
+      "views_during_voting": "",
+      "views_since_voting": "",
+      "favorites": "",
+      "avg_non_participants": "",
+      "votes": "",
+      "place": "",
+      "comments_num": "",
+      "avg_participants": "",
+      "avg_commenters": ""
+    },
+    "comments": []
+  }
+]
