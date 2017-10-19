@@ -9,6 +9,7 @@
 ### 图片信息解释
 
 image_name---保存的图片名
+
 image_url---图片源地址
 
 information---图片摄影信息如下
