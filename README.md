@@ -13,9 +13,11 @@ image_url---图片源地址
 
 information---图片摄影信息如下
 
+
     challenge
     
     collection
+    
     camera
     
     lens
@@ -27,6 +29,7 @@ information---图片摄影信息如下
     date_uploaded
 
 statistics---图片统计信息如下
+
 
     avg_all_users
     
