@@ -16,7 +16,6 @@ information---图片摄影信息如下
     challenge
     
     collection
-    
     camera
     
     lens
