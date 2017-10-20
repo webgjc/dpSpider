@@ -9,46 +9,59 @@
 ### 图片信息解释
 
 image_name---保存的图片名
-
 image_url---图片源地址
 
 information---图片摄影信息如下
 
-    challenge
+    challenge--挑战
     
-    collection
+    collection--收藏
     
-    camera
+    camera--照相机
     
-    lens
+    lens--镜片
+
+    aperture--光圈
+
+    iso--感光度
+
+    shutter--快门
+
+    location--地点
     
-    galleries
+    galleries--画廊(分类)
     
-    date
+    date--拍摄时间
     
-    date_uploaded
+    date_uploaded--上传时间
+
+    viewed--查看数
+
+    comments--评论数
+
+    favorites--最喜欢数
 
 statistics---图片统计信息如下
 
-    avg_all_users
+    place--地点
+
+    avg_all_users--所有用户平均分
+
+    avg_commenters--评论者平均分
     
-    views_during_voting
-    
-    views_since_voting
-    
-    favorites
-    
-    avg_non_participants
-    
-    votes
-    
-    place
-    
-    comments_num
-    
-    avg_participants
-    
-    avg_commenters
+    avg_participants--参与者平均分
+
+    avg_non_participants--非参与者平均分
+
+    views_since_voting--投票以来意见
+
+    views_during_voting--投票期间意见
+
+    votes--投票数
+
+    comments_num--评论数
+
+    favorites--最喜欢数
     
 comments---图片所有评论
 

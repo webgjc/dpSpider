@@ -4,26 +4,33 @@
     "image_url": "http://images.dpchallenge.com/images_challenge/2000-2999/2530/1200/Copyrighted_Image_Reuse_Prohibited_1205226.jpg",
     "information": {
       "challenge": "Cubism (Extended Editing)",
-      "date": "Sep 7, 2017",
-      "date_uploaded": "Sep 7, 2017",
-      "lens": "Canon EF-S 18-135mm IS STM",
-      "camera": "Canon EOS-7D Mark II",
       "collection": "Challenges",
+      "camera": "Canon EOS-7D Mark II",
+      "lens": "Canon EF-S 18-135mm IS STM",
+      "aperture": "",
+      "iso": "",
+      "shutter": "",
+      "location": "",
+      "date": "Sep 7, 2017",
       "galleries": [
         "Abstract"
-      ]
+      ],
+      "date_uploaded": "Sep 7, 2017",
+      "viewed": "",
+      "comments": "2",
+      "favorites": "0"
     },
     "statistics": {
-      "avg_all_users": "5.5227",
-      "views_during_voting": "101",
-      "views_since_voting": "229",
-      "favorites": "0",
-      "avg_non_participants": "5.7778",
-      "votes": "44",
       "place": "20 out of 38",
-      "comments_num": "2",
+      "avg_all_users": "5.5227",
+      "avg_commenters": "5.5000",
       "avg_participants": "5.1176",
-      "avg_commenters": "5.5000"
+      "avg_non_participants": "5.7778",
+      "views_since_voting": "271",
+      "views_during_voting": "101",
+      "votes": "44",
+      "comments_num": "2",
+      "favorites": "0"
     },
     "comments": [
       "I think I get the picture 7",
@@ -34,29 +41,368 @@
     "image_name": "00000002.jpg",
     "image_url": "http://images.dpchallenge.com/images_portfolio/25000-29999/29748/1200/Copyrighted_Image_Reuse_Prohibited_1205121.jpg",
     "information": {
-      "challenge": "Portfolio (Nikon D4s)",
+      "challenge": "",
+      "collection": "Portfolio",
+      "camera": "Nikon D4s",
+      "lens": "Nikon AF-S Nikkor 400mm f/2.8G ED VR",
+      "aperture": "3.2",
+      "iso": "8000",
+      "shutter": "1000",
+      "location": "",
       "date": "",
-      "date_uploaded": "Sep 4, 2017",
-      "lens": "Action",
-      "camera": "Sports",
-      "collection": "Nikon AF-S Nikkor 400mm f/2.8G ED VR",
       "galleries": [
         "Sports",
         "Action"
-      ]
+      ],
+      "date_uploaded": "Sep 4, 2017",
+      "viewed": "81",
+      "comments": "0",
+      "favorites": "0"
     },
     "statistics": {
+      "place": "",
       "avg_all_users": "",
+      "avg_non_participants": "",
       "views_during_voting": "",
       "views_since_voting": "",
       "favorites": "",
-      "avg_non_participants": "",
       "votes": "",
-      "place": "",
+      "avg_commenters": "",
       "comments_num": "",
-      "avg_participants": "",
-      "avg_commenters": ""
+      "avg_participants": ""
     },
     "comments": []
+  },
+  {
+    "image_name": "00000003.jpg",
+    "image_url": "http://images.dpchallenge.com/images_challenge/2000-2999/2310/1200/Copyrighted_Image_Reuse_Prohibited_1183752.jpg",
+    "information": {
+      "challenge": "Magazine Cover III (Extended Editing)",
+      "collection": "Challenges",
+      "camera": "Canon EOS-5D Mark II",
+      "lens": "Canon EF 50mm f/1.8 II",
+      "aperture": "",
+      "iso": "",
+      "shutter": "",
+      "location": "Hyde park",
+      "date": "Jun 28, 2016",
+      "galleries": [
+        "Advertisement"
+      ],
+      "date_uploaded": "Jun 30, 2016",
+      "viewed": "",
+      "comments": "3",
+      "favorites": "0"
+    },
+    "statistics": {
+      "place": "20 out of 31",
+      "avg_all_users": "5.4000",
+      "avg_commenters": "5.5000",
+      "avg_participants": "5.5000",
+      "avg_non_participants": "5.3542",
+      "views_since_voting": "134",
+      "views_during_voting": "147",
+      "votes": "70",
+      "comments_num": "3",
+      "favorites": "0"
+    },
+    "comments": [
+      "I really like the image -- but it's a bit painfully saturated. Even a more relaxing font color might have helped.",
+      "Fabulous photo for this magazine!",
+      "Overdone, for me. The image looks really messy, although I guess it could be seen as an abstract."
+    ]
+  },
+  {
+    "image_name": "00000004.jpg",
+    "image_url": "http://images.dpchallenge.com/images_portfolio/115000-119999/119419/1200/Copyrighted_Image_Reuse_Prohibited_1135702.jpg",
+    "information": {
+      "challenge": "",
+      "collection": "Photo a Week 2014",
+      "camera": "",
+      "lens": "",
+      "aperture": "",
+      "iso": "",
+      "shutter": "",
+      "location": "",
+      "date": "Nov 21, 2014",
+      "galleries": [
+        "Black and White",
+        "Analog"
+      ],
+      "date_uploaded": "Nov 18, 2014",
+      "viewed": "182",
+      "comments": "0",
+      "favorites": "0"
+    },
+    "statistics": {
+      "place": "",
+      "avg_all_users": "",
+      "avg_non_participants": "",
+      "views_during_voting": "",
+      "views_since_voting": "",
+      "favorites": "",
+      "votes": "",
+      "avg_commenters": "",
+      "comments_num": "",
+      "avg_participants": ""
+    },
+    "comments": []
+  },
+  {
+    "image_name": "00000005.jpg",
+    "image_url": "http://images.dpchallenge.com/images_challenge/2000-2999/2547/1200/Copyrighted_Image_Reuse_Prohibited_1206328.jpg",
+    "information": {
+      "challenge": "Quiet II (Standard Editing)",
+      "collection": "Challenges",
+      "camera": "Canon EOS-7D Mark II",
+      "lens": "Canon EF-S 18-135mm IS STM",
+      "aperture": "",
+      "iso": "",
+      "shutter": "",
+      "location": "Lakes District UK",
+      "date": "Oct 3, 2017",
+      "galleries": [
+        "Animals"
+      ],
+      "date_uploaded": "Oct 3, 2017",
+      "viewed": "",
+      "comments": "2",
+      "favorites": "0"
+    },
+    "statistics": {
+      "place": "34 out of 66",
+      "avg_all_users": "5.5893",
+      "avg_commenters": "5.5000",
+      "avg_participants": "5.3667",
+      "avg_non_participants": "5.8462",
+      "views_since_voting": "29",
+      "views_during_voting": "104",
+      "votes": "56",
+      "comments_num": "2",
+      "favorites": "0"
+    },
+    "comments": [
+      "The sun seems to have found its way through the gloom to highlight these cows in a small pasture.  Nice quiet moment.",
+      "This is a nice image and is certainly quiet and peaceful, the lighting is certainly adding a great deal to the photo."
+    ]
+  },
+  {
+    "image_name": "00000006.jpg",
+    "image_url": "http://images.dpchallenge.com/images_challenge/2000-2999/2536/1200/Copyrighted_Image_Reuse_Prohibited_1205695.jpg",
+    "information": {
+      "challenge": "Room Interiors (Standard Editing)",
+      "collection": "Portfolio",
+      "camera": "Fujifilm X-Pro2",
+      "lens": "Fujifilm XF 10-24mm f4 R IOS",
+      "aperture": "",
+      "iso": "",
+      "shutter": "",
+      "location": "Chicago Cultural Center",
+      "date": "Sep 10, 2017",
+      "galleries": [
+        "Architecture",
+        "Black and White"
+      ],
+      "date_uploaded": "Sep 19, 2017",
+      "viewed": "",
+      "comments": "6",
+      "favorites": "0"
+    },
+    "statistics": {
+      "place": "1 out of 39",
+      "avg_all_users": "6.8500",
+      "avg_commenters": "0.0000",
+      "avg_participants": "6.0833",
+      "avg_non_participants": "7.3611",
+      "views_since_voting": "495",
+      "views_during_voting": "117",
+      "votes": "60",
+      "comments_num": "6",
+      "favorites": "0"
+    },
+    "comments": [
+      "Congratulations Mark! This one has it all!",
+      "Congrats on the blue, Mark. Great point of view. I love the shapes and angles. Love the tones too.",
+      "congrats on the blue",
+      "Congrats on the Blue, Mark. Really like this image with it's stairs. Does remind me of one of those",
+      "I can understand why this is one of your favourite buildings - it looks very nice indeed. And superbly captured too. Congrats on the blue.",
+      "Congrats on the Blue!  Really great and interesting image.  Love the processing!"
+    ]
+  },
+  {
+    "image_name": "00000007.jpg",
+    "image_url": "http://images.dpchallenge.com/images_portfolio/15000-19999/17203/1200/Copyrighted_Image_Reuse_Prohibited_1206465.jpg",
+    "information": {
+      "challenge": "",
+      "collection": "Astrophotography",
+      "camera": "",
+      "lens": "",
+      "aperture": "",
+      "iso": "",
+      "shutter": "",
+      "location": "",
+      "date": "",
+      "galleries": [
+        "Astrophotography"
+      ],
+      "date_uploaded": "Oct 8, 2017",
+      "viewed": "77",
+      "comments": "2",
+      "favorites": "0"
+    },
+    "statistics": {
+      "place": "",
+      "avg_all_users": "",
+      "avg_non_participants": "",
+      "views_during_voting": "",
+      "views_since_voting": "",
+      "favorites": "",
+      "votes": "",
+      "avg_commenters": "",
+      "comments_num": "",
+      "avg_participants": ""
+    },
+    "comments": [
+      "Amazing. Thanks for sharing.",
+      "This one is really good...still like your submission best, but this is up there."
+    ]
+  },
+  {
+    "image_name": "00000008.jpg",
+    "image_url": "http://images.dpchallenge.com/images_challenge/2000-2999/2546/1200/Copyrighted_Image_Reuse_Prohibited_1206484.jpg",
+    "information": {
+      "challenge": "Waterscape (Standard Editing)",
+      "collection": "Challenge Stuff",
+      "camera": "Olympus OM-D E-M1",
+      "lens": "Olympus 150mm f/2.0 Zuiko Digital",
+      "aperture": "2.0",
+      "iso": "200",
+      "shutter": "1/1250",
+      "location": "Stubblefield Lake, Texas, USA.",
+      "date": "Oct 6, 2017",
+      "galleries": [
+        "Landscape",
+        "Birds"
+      ],
+      "date_uploaded": "Oct 8, 2017",
+      "viewed": "",
+      "comments": "10",
+      "favorites": "1 (view)"
+    },
+    "statistics": {
+      "place": "2 out of 66",
+      "avg_all_users": "6.7547",
+      "avg_commenters": "7.5000",
+      "avg_participants": "6.5714",
+      "avg_non_participants": "7.1111",
+      "views_since_voting": "463",
+      "views_during_voting": "89",
+      "votes": "53",
+      "comments_num": "10",
+      "favorites": "1 ("
+    },
+    "comments": [
+      "I want to thank everyone for the votes and comments, I really do appreciate it.",
+      "Big congrats!",
+      "Wow wow wow - the blue was a superb photo and this is just as good in my eyes. Really great work. Congrats!",
+      "congrats on the red, one of my top picks",
+      "lovel misty morning shot, Ronnie.  Great work and congrats on the ribbon!",
+      "Congratulations on the yellow Ribbon.",
+      "Hello from the critique club",
+      "Should do well.. great composition and mood",
+      "I love that focus RIGHT where it should be!",
+      "Beautiful and moody composition, evokes a feeling of calm. Top 3 pick for me."
+    ]
+  },
+  {
+    "image_name": "00000009.jpg",
+    "image_url": "http://images.dpchallenge.com/images_challenge/2000-2999/2541/1200/Copyrighted_Image_Reuse_Prohibited_1205948.jpg",
+    "information": {
+      "challenge": "People at their Jobs (Standard Editing)",
+      "collection": "Challenges",
+      "camera": "Sony Alpha A6000",
+      "lens": "Sigma 60mm 1:2.8 DN",
+      "aperture": "",
+      "iso": "",
+      "shutter": "",
+      "location": "restaurant in Paris",
+      "date": "Sep 26, 2017",
+      "galleries": [
+        "Black and White"
+      ],
+      "date_uploaded": "Sep 26, 2017",
+      "viewed": "",
+      "comments": "5",
+      "favorites": "0"
+    },
+    "statistics": {
+      "place": "17 out of 34",
+      "avg_all_users": "5.7963",
+      "avg_commenters": "7.0000",
+      "avg_participants": "5.5882",
+      "avg_non_participants": "5.8919",
+      "views_since_voting": "66",
+      "views_during_voting": "102",
+      "votes": "54",
+      "comments_num": "5",
+      "favorites": "0"
+    },
+    "comments": [
+      "This finished higher in my list. Nicely done.",
+      "9 from me - in my top 3. Sorry I didn't get around to commenting during voting. I love it. The shadow fills in where the figure is hard to see.",
+      "beautiful light and shadow effects, conveying the work. well caught.",
+      "9",
+      "good idea 5"
+    ]
+  },
+  {
+    "image_name": "00000010.jpg",
+    "image_url": "http://images.dpchallenge.com/images_challenge/2000-2999/2524/1200/Copyrighted_Image_Reuse_Prohibited_1205463.jpg",
+    "information": {
+      "challenge": "Extended Free Study 2017-08 (Extended Editing)",
+      "collection": "Challenges",
+      "camera": "Canon EOS-7D Mark II",
+      "lens": "Canon EF-S 18-135mm IS STM",
+      "aperture": "",
+      "iso": "",
+      "shutter": "",
+      "location": "",
+      "date": "Sep 11, 2017",
+      "galleries": [
+        "Emotive",
+        "Blur"
+      ],
+      "date_uploaded": "Sep 14, 2017",
+      "viewed": "",
+      "comments": "13",
+      "favorites": "2 (view)"
+    },
+    "statistics": {
+      "place": "5 out of 47",
+      "avg_all_users": "6.2308",
+      "avg_commenters": "8.0000",
+      "avg_participants": "6.5556",
+      "avg_non_participants": "5.9524",
+      "views_since_voting": "326",
+      "views_during_voting": "89",
+      "votes": "39",
+      "comments_num": "13",
+      "favorites": "2 ("
+    },
+    "comments": [
+      "Twisting in the wind.  Wonderful use of the extended rule set.  Congratulations!",
+      "Congratulations, Anita. Very topical.",
+      "Nicely done, Anita!",
+      "Don expressed my feeling (and description) better than I, as usual.s",
+      "Haunting... in a beautiful way! Lovely top 5 this month!",
+      "Yes, congratulations. You could do a twin sister now... maybe add more water.",
+      "One of my top 3 votes. fate looking straight at us",
+      "This is so original and so well done. Congratulations!",
+      "Wow!",
+      "Terrific I love it",
+      "German Expressionist shadow play version of Wizard of Oz",
+      "Neatly surreal.",
+      "succinct."
+    ]
   }
 ]
