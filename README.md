@@ -4,9 +4,9 @@
 
 ## 主文件 dp.py
 
-运行获取图片存入 data/ ,信息存入 data.txt.
+运行获取图片存入 data/ ,信息存入 data.json.
 
-### 图片信息解释
+### data.json图片信息解释
 
 image_name---保存的图片名
 image_url---图片源地址
